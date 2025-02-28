@@ -1,0 +1,78 @@
+{"level":"info","message":"Server started on port 8080"}
+{"level":"info","message":"Converted 100 to C"}
+{"level":"info","message":"GET /romannumeral?query=100 - 200 [21ms]"}
+{"level":"info","message":"Converted 1000 to M"}
+{"level":"info","message":"GET /romannumeral?query=1000 - 200 [4ms]"}
+{"level":"warn","message":"Invalid input: 10000"}
+{"level":"info","message":"GET /romannumeral?query=10000 - 400 [3ms]"}
+{"level":"info","message":"Converted 3232 to MMMCCXXXII"}
+{"level":"info","message":"GET /romannumeral?query=3232 - 200 [2ms]"}
+{"level":"info","message":"Converted 2 to II"}
+{"level":"info","message":"GET /romannumeral?query=2 - 200 [3ms]"}
+{"level":"info","message":"Converted 666 to DCLXVI"}
+{"level":"info","message":"GET /romannumeral?query=666 - 200 [3ms]"}
+{"level":"info","message":"Converted 5 to V"}
+{"level":"info","message":"GET /romannumeral?query=5 - 200 [3ms]"}
+{"level":"info","message":"Converted 8 to VIII"}
+{"level":"info","message":"GET /romannumeral?query=8 - 200 [2ms]"}
+{"level":"info","message":"Converted 899 to DCCCXCIX"}
+{"level":"info","message":"GET /romannumeral?query=899 - 200 [4ms]"}
+{"level":"info","message":"Converted 56 to LVI"}
+{"level":"info","message":"GET /romannumeral?query=56 - 200 [3ms]"}
+{"level":"info","message":"Converted 87 to LXXXVII"}
+{"level":"info","message":"GET /romannumeral?query=87 - 200 [2ms]"}
+{"level":"info","message":"Converted 888 to DCCCLXXXVIII"}
+{"level":"info","message":"GET /romannumeral?query=888 - 200 [2ms]"}
+{"level":"info","message":"Converted 7 to VII"}
+{"level":"info","message":"GET /romannumeral?query=7 - 200 [3ms]"}
+{"level":"info","message":"Converted 8 to VIII"}
+{"level":"info","message":"GET /romannumeral?query=8 - 304 [3ms]"}
+{"level":"info","message":"Converted 44 to XLIV"}
+{"level":"info","message":"GET /romannumeral?query=44 - 200 [2ms]"}
+{"level":"info","message":"Converted 44 to XLIV"}
+{"level":"info","message":"GET /romannumeral?query=44 - 304 [2ms]"}
+{"level":"info","message":"Converted 44 to XLIV"}
+{"level":"info","message":"GET /romannumeral?query=44 - 304 [3ms]"}
+{"level":"info","message":"Converted 55 to LV"}
+{"level":"info","message":"GET /romannumeral?query=55 - 200 [2ms]"}
+{"level":"info","message":"Converted 6 to VI"}
+{"level":"info","message":"GET /romannumeral?query=6 - 200 [2ms]"}
+{"level":"info","message":"Converted 656 to DCLVI"}
+{"level":"info","message":"GET /romannumeral?query=656 - 200 [3ms]"}
+{"level":"info","message":"Converted 777 to DCCLXXVII"}
+{"level":"info","message":"GET /romannumeral?query=777 - 200 [2ms]"}
+{"level":"info","message":"Converted 54 to LIV"}
+{"level":"info","message":"GET /romannumeral?query=54 - 200 [2ms]"}
+{"level":"info","message":"Converted 23 to XXIII"}
+{"level":"info","message":"GET /romannumeral?query=23 - 200 [1ms]"}
+{"level":"info","message":"Converted 5 to V"}
+{"level":"info","message":"GET /romannumeral?query=5 - 304 [3ms]"}
+{"level":"info","message":"Converted 5 to V"}
+{"level":"info","message":"GET /romannumeral?query=5 - 304 [1ms]"}
+{"level":"info","message":"Converted 88 to LXXXVIII"}
+{"level":"info","message":"GET /romannumeral?query=88 - 200 [2ms]"}
+{"level":"info","message":"Converted 66 to LXVI"}
+{"level":"info","message":"GET /romannumeral?query=66 - 200 [1ms]"}
+{"level":"info","message":"Converted 88 to LXXXVIII"}
+{"level":"info","message":"GET /romannumeral?query=88 - 304 [2ms]"}
+{"level":"info","message":"Converted 88 to LXXXVIII"}
+{"level":"info","message":"GET /romannumeral?query=88 - 304 [1ms]"}
+{"level":"info","message":"Converted 5 to V"}
+{"level":"info","message":"GET /romannumeral?query=5 - 304 [2ms]"}
+{"level":"info","message":"Converted 5 to V"}
+{"level":"info","message":"GET /romannumeral?query=5 - 304 [4ms]"}
+{"level":"info","message":"Converted 6 to VI"}
+{"level":"info","message":"GET /romannumeral?query=6 - 304 [1ms]"}
+{"level":"info","message":"Converted 6 to VI"}
+{"level":"info","message":"GET /romannumeral?query=6 - 304 [2ms]"}
+{"level":"info","message":"Converted 5 to V"}
+{"level":"info","message":"GET /romannumeral?query=5 - 304 [2ms]"}
+{"level":"info","message":"Converted 777 to DCCLXXVII"}
+{"level":"info","message":"GET /romannumeral?query=777 - 304 [2ms]"}
+{"level":"info","message":"Converted 7 to VII"}
+{"level":"info","message":"GET /romannumeral?query=7 - 304 [1ms]"}
+{"level":"info","message":"Server started on port 8080"}
+{"level":"info","message":"Converted 6 to VI"}
+{"level":"info","message":"GET /romannumeral?query=6 - 200 [17ms]"}
+{"level":"info","message":"Converted 69 to LXIX"}
+{"level":"info","message":"GET /romannumeral?query=69 - 200 [3ms]"}
